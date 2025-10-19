@@ -1,4 +1,4 @@
 # mohit.demo
 my first GitHub repository.
 <br>
-Author - Mohit (GJU , Hisar)
+Author - Mohit (GJU)
